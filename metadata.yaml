@@ -1,0 +1,37 @@
+_repo: A-Roman-Singer_12346
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: "A Roman Singer is an 1884 novel by F. Marion Crawford. First serialized\
+  \ in The Atlantic from July 1883 to June 1884, it was published in book form in\
+  \ 1884. It was among the best selling books in the United States in 1884.\nThe novel\
+  \ is set in Rome. Crawford was born in Italy and spent a fair amount of time there,\
+  \ including, most immediately before writing this novel, studying Sanskrit at the\
+  \ University of Rome from 1876-78. He wrote A Roman Singer in early 1883, and moved\
+  \ back to Italy that same year. The story revolves around the love of an Italian\
+  \ tenor for the daughter of a Prussian officer.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12346'
+  wikidata: Q4659257
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Fiction'
+- !lcsh 'Italy -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Roman Singer
+url: http://www.gutenberg.org/ebooks/12346
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Roman_Singer
