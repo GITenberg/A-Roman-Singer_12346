@@ -1,5 +1,8 @@
 _repo: A-Roman-Singer_12346
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Crawford, F. Marion (Francis Marion)
@@ -17,6 +20,8 @@ description: "A Roman Singer is an 1884 novel by F. Marion Crawford. First seria
   \ University of Rome from 1876-78. He wrote A Roman Singer in early 1883, and moved\
   \ back to Italy that same year. The story revolves around the love of an Italian\
   \ tenor for the daughter of a Prussian officer.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12346#A-Roman-Singer
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
