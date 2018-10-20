@@ -11,7 +11,7 @@ Title: A Roman Singer
 Author: F. Marion Crawford
 
 Release Date: May 14, 2004 [EBook #12346]
-[Date last updated: February 9, 2006]
+[Last updated: October 20, 2015]
 
 Language: English
 
@@ -523,7 +523,7 @@ it, even if it is coloured red and green and put in a church window,
 and looks ever so much warmer than the diamond.
 
 But though I saw her beauty and the light of her face, all in a
-moment, as though it had been a dream, I saw. Nino, too; for I had
+moment, as though it had been a dream, I saw Nino, too; for I had
 missed him, and had supposed he had gone to the organ loft with De
 Pretis. But now, as the people kneeled to the benediction, imagine a
 little what he did; he just dropped on his knees with his face to the
@@ -1322,11 +1322,12 @@ now it repeat."
 
 "Ah!" cried Nino, "that is where Dante meets Beatrice."
 
-"My hitherto not-by-any-means-extensive, but always from-the-conscience-
-undertaken reading, reaches not so far. You will it repeat. So shall we
-know." Nino passed his hand inside his collar as though to free his
-throat, and began again, losing all consciousness of his tormentor in
-his own enjoyment of the verse.
+"My hitherto not-by-any-means-extensive, but always
+from-the-conscience-undertaken reading, reaches not so far.
+You will it repeat. So shall we know." Nino passed his hand 
+inside his collar as though to free his throat, and began again,
+losing all consciousness of his tormentor in his own enjoyment
+of the verse.
 
 "When was the Signor Alighieri born?" inquired Graf von Lira, very
 suddenly, as though to catch him.
@@ -2250,7 +2251,7 @@ Hedwig in St. Peter's to the time when he first sang in public.
 Christmas passed by,--thank heaven the municipality has driven away
 those most detestable pifferari who played on their discordant
 bagpipes at every corner for a fortnight, and nearly drove me
-erazy,--and the Befana, as we call the Epiphany in Rome, was gone,
+crazy,--and the Befana, as we call the Epiphany in Rome, was gone,
 with its gay racket, and the night fair in the Piazza Navona, and the
 days for Nino's first appearance drew near. I never knew anything
 about the business arrangements for the _debut_, since De Pretis
@@ -2400,8 +2401,8 @@ appearance," said Nino quietly. Hedwig blushed and turned away,
 busying herself with her books. At that moment Graf von Lira entered
 from the next room. Nino bowed.
 
-"Curious is it," said the count, "that you and the about-to-make-his-
-appearance tenor should the same name have."
+"Curious is it," said the count, "that you and the
+about-to-make-his-appearance tenor should the same name have."
 
 "He is a near relation, Signor Conte,--the same whom you heard sing in
 the Pantheon. I hope you will like his voice."
@@ -2414,7 +2415,7 @@ would look when she should recognise him from her box in the theatre
 that very evening.
 
 It is a terrible and a heart-tearing thing to part from the woman one
-loves. That is nothing new, you say. Everyone knows that, Perhaps so,
+loves. That is nothing new, you say. Everyone knows that, perhaps so,
 though I think not. Only those can know it who have experienced it,
 and for them no explanations are in any way at all necessary. The mere
 word "parting" calls up such an infinity of sorrow that it is better
@@ -4224,7 +4225,7 @@ he did so his eyes fell upon Nino. The stranger was tall and very
 thin. He wore a pointed beard and a heavy moustache, which seemed
 almost dazzlingly white, as were the few locks that appeared, neatly
 brushed over his temples, beneath his opera hat. His sanguine
-complexion, however, had all the freshness ef youth, and his eyes
+complexion, however, had all the freshness of youth, and his eyes
 sparkled merrily, as though amused at the spectacle of his nose, which
 was immense, curved, and polished, like an eagle's beak. He wore
 perfectly-fitting kid gloves, and the collar of his fur wrapper,
@@ -4881,7 +4882,7 @@ days of Carnival, when the opera closed, so that it was soon Lent; and
 everything is quieter then.
 
 But before he left us there was noise enough and bustle of
-preparation, and I did not think I should miss him; for he, always was
+preparation, and I did not think I should miss him; for he always was
 making music, or walking about, or doing something to disturb me just
 at the very moment when I was most busy with my books. Mariuccia,
 indeed, would ask me from time to time what I should do when Nino was
@@ -5040,7 +5041,7 @@ here."
 
 "No, they left suddenly for Paris a month ago."
 
-"I can very easily find out for you," said Benoni, his Bright eyes
+"I can very easily find out for you," said Benoni, his bright eyes
 turning on me with a searching look. "I can find out from Lira's
 banker, who is probably also mine. What is the matter with that young
 man? He is as sad as Don Quixote."
@@ -5816,7 +5817,7 @@ You could not half understand how in these times, under the new
 government, and almost within a long day's ride from Rome, such things
 could take place as I am about to tell you of, unless I explained to
 you how very primitive that country is which lies to the south-east of
-the capital, and-which we generally call the Abruzzi. The district is
+the capital, and which we generally call the Abruzzi. The district is
 wholly mountainous, and though there are no very great elevations
 there are very ragged gorges and steep precipices, and now and then an
 inaccessible bit of forest far up among the rocks, which no man has
@@ -5848,7 +5849,7 @@ it. It is an old life, the same to-day as a thousand years ago, and
 perhaps as it will be a thousand years hence. The men are great
 travellers, and go to Rome in the winter to sell their cheese, or to
 milk a flock of goats in the street at daybreak, selling the foaming
-canful for a son. But their visits to the city do not civilise them;
+canful for a sou. But their visits to the city do not civilise them;
 the outing only broadens the horizon of their views in regard to
 foreigners, and makes them more ambitious to secure one, and see what
 he is like, and cut off his ears, and get his money. Do not suppose
@@ -7576,7 +7577,7 @@ stones of the wall, and gradually, as she watched from beneath her
 half-closed lids the play of the stealing sunlight, she fell into a
 sweet sleep.
 
-She was soon disturbed by that indescribable ununeasiness that creeps
+She was soon disturbed by that indescribable uneasiness that creeps
 through our dreams when we are asleep in the presence of danger. A
 weird horror possesses us, and makes the objects in the dream appear
 unnatural. Gradually the terror grows on us and thrills us, and we
@@ -8256,7 +8257,7 @@ softly left the room.
 CHAPTER XX
 
 
-I need not tell you how I passed all the time from; Nino's leaving me
+I need not tell you how I passed all the time from Nino's leaving me
 until he came back in the evening, just as I could see from my window
 that the full moon was touching the tower of the castle. I sat looking
 out, expecting him, and I was the most anxious professor that ever
